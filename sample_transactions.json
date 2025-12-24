@@ -1,0 +1,20 @@
+[
+  {
+    "tx_hash": "safe-tx-001",
+    "from": "2LJTKDYmtF8U1L6s49AfRZALVz7LGLBWwvJ1w3QRf1VF",
+    "to": "MYWALLET",
+    "token_symbol": "SOL",
+    "token_address": "So11111111111111111111111111111111111111112",
+    "value": 150.0,
+    "timestamp": "2024-01-01T00:00:00Z"
+  },
+  {
+    "tx_hash": "poison-tx-001",
+    "from": "2LJTKDYmtF8U1L6s49AfFakeFakeFakeFakeFakeQRf1VF",
+    "to": "MYWALLET",
+    "token_symbol": "SOL",
+    "token_address": "So11111111111111111111111111111111111111112",
+    "value": 0.0,
+    "timestamp": "2024-01-01T00:10:00Z"
+  }
+]
